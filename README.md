@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manas-codezz/Leetcode/tree/master/0001-two-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Manas-codezz/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Manas-codezz/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manas-codezz/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
