@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manas-codezz/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Manas-codezz/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Manas-codezz/Leetcode/tree/master/0136-single-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manas-codezz/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas-codezz/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Manas-codezz/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Manas-codezz/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Manas-codezz/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
