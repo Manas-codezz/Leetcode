@@ -1,0 +1,22 @@
+class Solution {
+    public int findGCD(int[] nums) {
+        int min= 10000;
+        int max=0;
+        for (int i=0;i<nums.length;i++){
+            if(nums[i]>max){
+                max=nums[i];
+            }
+            if(nums[i]<min){
+                min=nums[i];
+            }
+
+        }
+        while (min!=0){
+            int rem=max%min;
+            max=min;
+            min=rem;
+
+        }
+        return max;
+    }
+}
