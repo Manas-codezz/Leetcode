@@ -15,6 +15,7 @@
 | [1512-number-of-good-pairs](https://github.com/Manas-codezz/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Manas-codezz/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Manas-codezz/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Manas-codezz/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [0066-plus-one](https://github.com/Manas-codezz/Leetcode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manas-codezz/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Manas-codezz/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Counting
 |  |
 | ------- |
@@ -62,4 +64,16 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Manas-codezz/Leetcode/tree/master/0035-search-insert-position) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manas-codezz/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
